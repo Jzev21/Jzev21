@@ -10,7 +10,10 @@ desarrollarme en esta área.
 
  # ![](https://github.com/Jzev21/Jzev21/blob/main/jzev021.jpeg) 
  
-Projectos 
+Proyectos: 
+1.Analisis 
+
+2. Analisis
 <table style="width:100%">
 <tr>
 <td>
